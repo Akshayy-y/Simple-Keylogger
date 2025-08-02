@@ -13,3 +13,14 @@ Using this software for unauthorized monitoring is illegal. Only run this on you
 ## 🛠️ Usage
 
 1. Install `pynput`:
+
+
+2. Run the script:
+
+
+3. Keystrokes will be saved in `keylog.txt` in the same directory.
+
+## 📘 Topics Covered
+- Python keylogging
+- Ethical malware simulation
+- Windows API interaction via `pynput`
